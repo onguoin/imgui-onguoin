@@ -10,6 +10,20 @@
 
 This repository contains only the reusable UI kit and public demo code. It does not include private product logic, service integrations, authorization flows, business workflows, or private brand assets.
 
+## 界面预览 / UI Preview
+
+以下截图来自使用 `imgui-onguoin` 构建的 UUTS 软件项目界面，用于展示这套 UI kit 在真实桌面工具中的成品视觉效果。本仓库只开源通用 UI kit，不包含 UUTS 的私有业务逻辑、服务集成或产品专用代码。
+
+The screenshots below are from the UUTS software interface built with `imgui-onguoin`. They show the finished visual style of this UI kit in a real desktop tool. This repository only open-sources the reusable UI kit and does not include UUTS private business logic, service integrations, or product-specific code.
+
+**Overview / 总览**
+
+![UUTS overview UI preview](docs/assets/uuts-overview-preview.png)
+
+**Tuning / 调参**
+
+![UUTS tuning UI preview](docs/assets/uuts-tuning-preview.png)
+
 ## 归属 / Ownership
 
 `imgui-onguoin` 原始源码版权归 onguoin 所有，Copyright (c) 2026 onguoin，并以 MIT License 发布。
@@ -136,6 +150,7 @@ LICENSE                      imgui-onguoin 的 MIT 许可证 / MIT license for i
 THIRD_PARTY_NOTICES.md       依赖许可证说明 / Dependency license notes
 CONTRIBUTING.md              贡献和归属规则 / Contribution and ownership rules
 docs/PROJECT_INTRO.md        发布用中英文简介 / Bilingual release and repository intro
+docs/assets/                 README 预览图片 / README preview images
 ```
 
 ## 许可证 / License
